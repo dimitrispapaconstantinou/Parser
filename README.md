@@ -2,8 +2,8 @@
 Small class that implements a given grammar
 
 
- The follwoing grammar is implemented
  
+ GRAMMAR
  
  P → S ;  
  
